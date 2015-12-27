@@ -1,7 +1,7 @@
 name: Mathieu Savage
 favicon: null
-layout_spectrum: 0.4535870486870408
-typography_spectrum: 0.4817527886480093
+layout_spectrum: 1
+typography_spectrum: 0.65774
 title: Mathieu Savage
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.1531446515582502
-  lightness: 0.41051769885234535
-  saturation: 0.24080953164957464
-  rhythmicContrast: 0.23367522424086928
+    - '#ff0000'
+    - '#ff0000'
+    - '#ff0000'
+    - '#ff0000'
+    - '#ff0000'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
