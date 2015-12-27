@@ -1,6 +1,6 @@
 name: Mathieu Savage
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.87621
 typography_spectrum: 0.65774
 title: Mathieu Savage
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff0000'
     - '#ff0000'
     - '#ff0000'
-  brandStrength: 0.0625
-  lightness: 0.5
+  brandStrength: 0.1875
+  lightness: 0.1875
   saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
